@@ -10,7 +10,7 @@ Source: TMDB 5000 Movies dataset
 
 Contains: Movie metadata such as genres, cast, crew, overview, and keywords
 
-Download: [TMDB Dataset] (ttps://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+Download: [TMDB Dataset] (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 🛠️ Steps Involved
 
